@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799242442843",
+    "firebase_url": "https://task-sync-pro-v2-b52e9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "task-sync-pro-v2-b52e9",
+    "storage_bucket": "task-sync-pro-v2-b52e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799242442843:android:0fed9154584dc8bf26877e",
+        "android_client_info": {
+          "package_name": "com.sync.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799242442843-jc7445l1c85tkmr6ogk65jbnhkmju1as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sync.task",
+            "certificate_hash": "64f36e910ab9598581f92ac06e847d39a87c49cd"
+          }
+        },
+        {
+          "client_id": "799242442843-3g0rblkkcut7ebvro8s17llpe583hur8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6HC6u4z36o6qd6Job9uoCxVg9gcXUp6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799242442843-3g0rblkkcut7ebvro8s17llpe583hur8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "799242442843-622vrmojg0kjdo9omtlm1dnhab3jejtn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
